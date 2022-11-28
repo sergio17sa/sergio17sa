@@ -33,6 +33,18 @@ Hello! I'm web developer focused in game development, I really passionate about 
 [![ALKEMYrepo](https://img.shields.io/badge/Repo-Link-red)](https://github.com/DaniHellN25/Proyecto-Grupal)
 [![PROJECT LINK](https://img.shields.io/badge/Project-Link-blue)](https://terapeando.vercel.app/)
 
+**POKEMON APP (FULL STACK):** Individual project that consumes the POKEAPI API and allows you to search for pokemon by name, filter them by strength or type, sort them alphabetically, and create a new pokemon. The technologies used were:
+
+- JavaScript
+- React
+- Redux
+- Express
+- PostgreSQL
+- NodeJS
+
+[![ALKEMYrepo](https://img.shields.io/badge/Repo-Link-red)](https://github.com/sergio17sa/PokemonAPP/tree/main/PI-Pokemon-main)
+[![PROJECT LINK](https://img.shields.io/badge/Project-Link-blue)](https://pokemon-app-pi-theta.vercel.app/)
+
 
 
 ## 🌐 Socials:
