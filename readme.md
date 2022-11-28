@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a passionate about web development, I have knowledge in frontend and backend using different technologies and languages. <br><br>🔭 I really like create and give life to my projects through logic a desing.<br><br>🎓 Full Stack Developer. <br>
+Hello! I'm web developer focused in game development, I really passionate about the ways to create all sorts of things through technology, especially video games. <br><br>🔭 I have worked in development teams particulary in backend programing using technologies like NodeJs, Express, JavaScript, among other, although I also have worked in frontend programing side with tools like React, Redux and CSS. <br><br>🎓 About game development I´m participating in the unity junior developer bootcamp of Generation fundation where I have had the opportunity to join to game Jams where in teams we have created video game projects based on Unity engine using C# language, character controller, gameplay, OOP, animations, sound effects, scenes flow and mechanics.  <br><br> Unity Game Developer - Full Stack Developer
 
 
 ## 🌐 Socials:
