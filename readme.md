@@ -2,6 +2,39 @@
 Hello! I'm web developer focused in game development, I really passionate about the ways to create all sorts of things through technology, especially video games. <br><br>🔭 I have worked in development teams particulary in backend programing using technologies like NodeJs, Express, JavaScript, among other, although I also have worked in frontend programing side with tools like React, Redux and CSS. <br><br>🎓 About game development I´m participating in the unity junior developer bootcamp of Generation fundation where I have had the opportunity to join to game Jams where in teams we have created video game projects based on Unity engine using C# language, character controller, gameplay, OOP, animations, sound effects, scenes flow and mechanics.  <br><br> Unity Game Developer - Full Stack Developer
 
 
+## 🎰 Projects:
+**NIGHTMARE RACE VIDEO GAME:** Is a 3d game in which you must collect all the elements to be able to save yourself.  
+
+[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://mihoz.itch.io/nightmare-race)
+
+**SIKING SHIP VIDEO GAME 2D:** is a 2d video game, wich you must take active desitions to save the sinking ship, you will run by a medieval boat and complete missions to prevent the water entering to de the boat, hurry up, the level water increase fast.
+
+[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://sergio17sa.itch.io/siking-ship)
+
+**ONG BACKEND NODEJS OOP:** Backend development to a ONG like a project to complete Alkemy acceleration process using nodeJs, Js and OOP.
+
+[![ALKEMYrepo](https://img.shields.io/badge/Repo-Link-red)](https://github.com/alkemyTech/OT291-server)
+
+**REST API DISNEY WORLD:** REST API challenge to get into Alkemy aceleracion using nodeJs, Js, Express, CRUD.
+
+[![ALKEMYrepo](https://img.shields.io/badge/Repo-Link-red)](https://github.com/sergio17sa/REST-API-MUNDO-DE-DISNEY-NODEJS)
+
+**TERAPEANDO APP (FULL STACK):** I had the opportunity to be part of an excellent team with which we developed Terapeando, an app that connects psychologists with patients and for which we use an agile work methodology. Its main Features are:
+
+- Appointment booking system
+- Login with a third party (Google) (Passport)
+- JWT Implementation
+- Payment gateway with Stripe
+- Notifications of user creation and forgotten password via email (Nodemailer)
+- Chatbot (React chatbot)
+- Administration panel
+- Google maps API
+
+[![ALKEMYrepo](https://img.shields.io/badge/Repo-Link-red)](https://github.com/DaniHellN25/Proyecto-Grupal)
+[![PROJECT LINK](https://img.shields.io/badge/Project-Link-blue)](https://terapeando.vercel.app/)
+
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sergio.salgado.965/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergiosalgado17) [![Whatsapp](https://img.shields.io/badge/Whatsapp-Link-brightgreen)](https://wa.link/ndtns5)
 
