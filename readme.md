@@ -4,7 +4,7 @@ Hello! I'm web developer focused in game development, I really passionate about 
 
 ## 🎰 Projects:
 
-**Master Of Time:** Immerse yourself in a thrilling strategy game where victory lies in utilizing the unique abilities of a diverse cast of characters. As a
+**MASTER OF TIME:** Immerse yourself in a thrilling strategy game where victory lies in utilizing the unique abilities of a diverse cast of characters. As a
 player, you'll have the opportunity to select a character and strategically deploy them in battle to attack and defend against the enemy.  
 
 [![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://oscaralarcon99.itch.io/masteroftime)
