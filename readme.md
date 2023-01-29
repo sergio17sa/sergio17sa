@@ -17,9 +17,9 @@ player, you'll have the opportunity to select a character and strategically depl
 
 [![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://sergio17sa.itch.io/siking-ship)
 
-**GALAXY RACE:** Is a 3D video game, in which the player controls a ship in circuit created randomly.
+**GALAXY RACE:** Is a 3D video game made 48 hours, in which the player controls a ship in circuit created randomly.
 
-[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)]([https://sergio17sa.itch.io/siking-ship](https://github.com/DaskalosJSM/Galaxy-Race))
+[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://github.com/DaskalosJSM/Galaxy-Race)
 
 **ONG BACKEND NODEJS OOP:** Backend development to a ONG like a project to complete Alkemy acceleration process using nodeJs, Js and OOP.
 
