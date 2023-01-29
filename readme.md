@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm web developer focused in game development, I really passionate about the ways to create all sorts of things through technology, especially video games. <br><br>🔭 I have worked in development teams particulary in backend programing using technologies like NodeJs, Express, JavaScript, among other, although I also have worked in frontend programing side with tools like React, Redux and CSS. <br><br>🎓 About game development I´m participating in the unity junior developer bootcamp of Generation fundation where I have had the opportunity to join to game Jams where in teams we have created video game projects based on Unity engine using C# language, character controller, gameplay, OOP, animations, sound effects, scenes flow and mechanics.  <br><br> Unity Game Developer - Full Stack Developer
+Hello! I'm web developer focused in game development, I really passionate about the ways to create all sorts of things through technology, especially video games. <br><br>🔭 I have worked in development teams particulary in backend programing using technologies like NodeJs, Express, JavaScript, among other, although I also have worked in frontend programing side with tools like React, Redux and CSS. <br><br>🎓 About game development I participated in the unity junior developer bootcamp of Generation fundation where I had the opportunity to join to game Jams where in teams we have created video game projects based on Unity engine using C# language, character controller, gameplay, OOP, animations, sound effects, scenes flow and mechanics.  <br><br> Unity Game Developer - Full Stack Developer
 
 
 ## 🎰 Projects:
@@ -7,7 +7,7 @@ Hello! I'm web developer focused in game development, I really passionate about 
 **Master Of Time:** Immerse yourself in a thrilling strategy game where victory lies in utilizing the unique abilities of a diverse cast of characters. As a
 player, you'll have the opportunity to select a character and strategically deploy them in battle to attack and defend against the enemy.  
 
-[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)]([https://mihoz.itch.io/nightmare-race](https://oscaralarcon99.itch.io/masteroftime))
+[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://mihoz.itch.io/nightmare-race](https://oscaralarcon99.itch.io/masteroftime)
 
 **NIGHTMARE RACE VIDEO GAME:** Is a 3d game in which you must collect all the elements to be able to save yourself.  
 
