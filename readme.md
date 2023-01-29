@@ -7,7 +7,7 @@ Hello! I'm web developer focused in game development, I really passionate about 
 **Master Of Time:** Immerse yourself in a thrilling strategy game where victory lies in utilizing the unique abilities of a diverse cast of characters. As a
 player, you'll have the opportunity to select a character and strategically deploy them in battle to attack and defend against the enemy.  
 
-[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://mihoz.itch.io/nightmare-race](https://oscaralarcon99.itch.io/masteroftime)
+[![VideoGame](https://img.shields.io/badge/Game-Link-yellow)](https://oscaralarcon99.itch.io/masteroftime)
 
 **NIGHTMARE RACE VIDEO GAME:** Is a 3d game in which you must collect all the elements to be able to save yourself.  
 
